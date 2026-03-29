@@ -22,7 +22,7 @@ To get started with this portfolio, ensure that you have the following installed
 
 - Node.js
 - npm
-- git
+
 
 ## 🛠️ Installation
 
